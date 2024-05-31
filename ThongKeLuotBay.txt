@@ -1,0 +1,11 @@
+Số hiệu máy bay		Số lượt thực hiện chuyến bay
+	VN001					2
+	VN004					1
+	VN002					1
+	VN005					0
+	VN111					0
+	VN009					0
+	VN007					0
+	VN003					0
+	VN008					0
+	VN006					0

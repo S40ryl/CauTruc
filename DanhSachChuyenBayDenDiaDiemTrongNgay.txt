@@ -1,0 +1,10 @@
+Danh sách chuyến bay ABC
+Ngày giờ khởi hành: 1/6/2023 20:20	Nơi đến: PHU YEN
+Tổng số ghế: 40
+Các ghế đã được đặt: 6  2  3  7  
+Số ghế còn trống: 36
+Danh sách chuyến bay DI CHOI
+Ngày giờ khởi hành: 1/6/2023 1:6	Nơi đến: PHU YEN
+Tổng số ghế: 40
+Các ghế đã được đặt: 9  3  
+Số ghế còn trống: 38

@@ -1,0 +1,5 @@
+Danh sách khách hàng trên chuyến bay DI CHOI
+Ngày giờ khởi hành: 1/6/2023 1:6	Nơi đến: PHU YEN
+Tổng số ghế: 40
+Số ghế còn trống: 38
+Danh sách ghế còn trống: 1  2  4  5  6  7  8  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  

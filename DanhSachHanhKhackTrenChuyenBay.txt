@@ -1,0 +1,5 @@
+Danh sách khách hàng trên chuyến bay DI CHOI
+Ngày giờ khởi hành: 1/6/2023 1:6	Nơi đến: PHU YEN
+STT	Số ghế	CMND	Phái	Họ tên
+1	9	111111111	 NAM	LE HOANG
+2	3	123456773	 NU	LE THANH NHI
